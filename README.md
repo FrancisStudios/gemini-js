@@ -1,14 +1,11 @@
-# The Red Planet 🪐
+# GEM 💎
 
-The Red Planet is a single player, survival, top-down, 2D, PRG game, where you have to manage resources to be able to survive on Mars, where you've been stranded as your vessel malfunctionned and crashed into the planet. 
+**GEM or GEMINI is a short for Game Engine Mini** which is a light-weight 2D graphics library / game engine written for desktop *graphic application* / game development with a **developer-first** approach, which aims to bring an **easy to learn** platform for future game developers.
 
-This game was built to demonstrate the possibilities in **FSCE** _(Francis Studios Canvas Engine)_
+## Get Started 🏁
+1) **Simplest Way** you can grab the bundled version (_coming soon_)
+2) **Advanced Way** grab this repository, install NodeJS, and run 
 
+## Concepts 💡
 
-
-# Francis Studios Canvas Enginge (FSCE) ⚙️
-
-Francis Studios Canvas Engine is a simplistic graphics library + game mechanic engine that allows to create cross plaform games in **JavaScript** or **FSCE Script** _(coming soon)_ using **electron**.
-
-- FSCE Repository _(coming soon)_
-- [FSCE Documentation](./src/docs/FSCE.md)
+## API Reference 📖
