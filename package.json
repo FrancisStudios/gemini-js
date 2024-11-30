@@ -1,0 +1,19 @@
+{
+  "name": "the-red-planet",
+  "version": "1.0.0",
+  "description": "The Red Planet - Survival Game",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/FrancisStudios/the-red-planet",
+  "keywords": [
+    "Survival Game",
+    "Mars"
+  ],
+  "author": "Francis Stuidos",
+  "license": "",
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
